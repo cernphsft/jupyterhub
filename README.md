@@ -1,2 +1,7 @@
-# JupyterHub components
-Custom components for JupyterHub: authenticators, spawners, etc. Intended to be used with ROOTaaS.
+# JupyterHub installation for ROOTaaS
+
+JupyterHub installation customized for ROOTaaS, including:
+* Dockerfile that installs JupyterHub
+* JupyterHub configuration
+* Dummy authenticator
+* Kubernetes spawner
